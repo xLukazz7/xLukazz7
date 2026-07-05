@@ -11,8 +11,9 @@
 
 ```lua
 local lukas = {
-    locatie   = "🇳🇱 Nederland",
-    focus     = { "Web Development", "Scripting", "Databases" },
+    Location   = "Netherlands",
+    age        = "19"
+    focus      = { "Web Development", "Scripting", "Databases" },
 }
 ```
 
@@ -47,9 +48,6 @@ local lukas = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=xLukazz7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xLukazz7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=xLukazz7&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=xLukazz7&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%" alt="Activity Graph" />
@@ -62,13 +60,5 @@ local lukas = {
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lukaspomper@icloud.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xLukazz7)
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=xLukazz7&style=for-the-badge&color=58A6FF" alt="Profile Views" />
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/xLukazz7/xLukazz7/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
