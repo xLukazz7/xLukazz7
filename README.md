@@ -8,6 +8,7 @@ local lukas = {
     location = "Netherlands 🇳🇱",
     age      = 19,
     focus    = { "Web Development", "Scripting", "Databases" },
+    learning = "Altijd iets nieuws",
 }
 ```
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -30,7 +31,7 @@ local lukas = {
 ## 📫 Contact
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-lukaspomper%40icloud.com-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=333333)](mailto:lukaspomper@icloud.com)
+[![Email](https://img.shields.io/badge/Email-xlukazzdevelopment%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=333333)](mailto:xlukazzdevelopment@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-xLukazz7-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/xLukazz7)
 
 <br>
